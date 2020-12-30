@@ -21,6 +21,7 @@
 | `docker run -p<host_port>:<image_port> redis` | port binding for running multiple images that have same ports |
 | `docker run -p6001:6379 -d redis:4.0` | redis v4.0 running on port 6001 -d mode |
 | `docker run -p6000:6379 -d redis` | another redis latest running on port 6000 -d mode |
+| `docker logs <container_id>` | see the logs of the container |
 
 * Debugging a Container
 * Demo Project Overview - Docker in Practice
