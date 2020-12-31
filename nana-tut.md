@@ -17,6 +17,7 @@
 | `docker ps -a` | list of running & stopped containers |
 | `docker ps --filter or -f "status=exited"` | list of only the stopped containers |
 | `docker stop <id>`| stop the container with the ID(hash) |
+| `docker rm -f <id>` | stop and remove a container in a single command by adding the “force” flag |
 | `docker start <id>` | start the stopped container with the ID(hash) |
 | `docker run -p<host_port>:<image_port> redis` | port binding for running multiple images that have same ports |
 | `docker run -p6001:6379 -d redis:4.0` | redis v4.0 running on port 6001 -d mode |
