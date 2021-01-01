@@ -7,3 +7,4 @@
 * [freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo&t=1s)
 * [The Simple Engineer - writing Dockerfile](https://www.youtube.com/watch?v=-2X4JP3HgYU)
 * [Techworld with Nana - writing Dockerfile](https://www.youtube.com/watch?v=WmcdMiyqfZs&t=1s)
+* [Creating your first Dockerfile, image and container](https://www.youtube.com/watch?v=hnxI-K10auY)
